@@ -1,7 +1,7 @@
 # README: KNN vs Radius Neighbors Lab
 
 ## Purpose of the Lab
-The purpose of this lab was to compare the performance of **K-Nearest Neighbors (KNN)** and **Radius Neighbors (RNN)** classifiers using the Wine dataset from the `sklearn` library. By experimenting with different parameter values — the number of neighbors (*k*) for KNN and the radius for RNN — the lab aimed to evaluate how these hyperparameters affect model accuracy, interpretability, and stability.
+The purpose of this lab was to compare the performance of **K-Nearest Neighbors (KNN)** and **Radius Neighbors (RNN)** classifiers using the Wine dataset from the `sklearn` library. By experimenting with different parameter values the number of neighbors (*k*) for KNN and the radius for RNN the lab aimed to evaluate how these hyperparameters affect model accuracy, interpretability, and stability.
 
 ## Key Insights and Observations
 - **KNN Results:** Accuracy improved and stabilized as *k* increased from smaller values. Lower *k* values tended to overfit the training data, while moderate values like 5 or 11 produced more reliable and generalized performance.
